@@ -1,12 +1,11 @@
 [project]
 name = "eutil-michaellepera"
 version = "0.0.1"
-description = "Reusable objects to speed up development"
 authors = [
-    { name = "Michael LePera", email = "<michaeltlepera@gmail.com>" }
+    { name = "Michael LePera", email = "michaeltlepera@gmail.com" }
 ]
+description = "Reusable objects to speed up development"
 readme = "README.md"
-packages = [{include = "eutil_michaellepera"}]
 requires-python = ">=3.11"
 classifiers = [
     "Programming Language :: Python :: 3",
