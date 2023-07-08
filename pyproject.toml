@@ -3,7 +3,7 @@ name = "eutil-michaellepera"
 version = "0.1.0"
 description = "Reusable objects to speed up development"
 authors = [
-    { name="lepmt001", email="104551434+Michael-LePera@users.noreply.github.com"}
+    "Michael LePera <michaeltlepera@gmail.com>"
 ]
 readme = "README.md"
 packages = [{include = "eutil_michaellepera"}]
