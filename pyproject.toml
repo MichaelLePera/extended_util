@@ -1,9 +1,9 @@
-[tool.poetry]
+[project]
 name = "eutil-michaellepera"
-version = "0.1.0"
+version = "0.0.1"
 description = "Reusable objects to speed up development"
 authors = [
-    "Michael LePera <michaeltlepera@gmail.com>"
+    { name = "Michael LePera", email = "<michaeltlepera@gmail.com>" }
 ]
 readme = "README.md"
 packages = [{include = "eutil_michaellepera"}]
