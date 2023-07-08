@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "eutil-michaellepera"
+version = "0.1.0"
+description = "Reusable objects to speed up development"
+authors = [
+    { name="lepmt001", email="104551434+Michael-LePera@users.noreply.github.com"}
+]
+readme = "README.md"
+packages = [{include = "eutil_michaellepera"}]
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/MichaelLePera/extended_util"
+"Bug Tracker" = "https://github.com/MichaelLePera/extended_util/issues"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core", "hatchling"]
+build-backend = "poetry.core.masonry.api"
