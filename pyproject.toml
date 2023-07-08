@@ -4,7 +4,7 @@ version = "0.0.1"
 authors = [
     { name = "Michael LePera", email = "michaeltlepera@gmail.com" }
 ]
-description = "Reusable objects to speed up development"
+description = "Pythonic reusable objects to speed up development."
 readme = "README.md"
 requires-python = ">=3.11"
 classifiers = [
