@@ -1,5 +1,5 @@
-from .predicate import Predicate
-from .search import Search
+from .predicate import *
+from .search import *
 
 
-__all__ = ['Predicate', 'Search']
+__all__ = ['linear_search', 'match', 'match_property']
